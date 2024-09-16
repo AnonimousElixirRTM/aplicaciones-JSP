@@ -8,7 +8,7 @@ El objetivo de este proyecto es demostrar el uso de **JSP** para crear aplicacio
 
 ### Estructura del Proyecto
 
-- **/web/WEB-INF**: Contiene la configuración y los archivos de despliegue del proyecto.
+- **build/web/WEB-INF**: Contiene la configuración y los archivos de despliegue del proyecto.
 - **/src/conf**: Código fuente Java utilizado en el backend.
 - **/web**: Páginas JSP que componen la interfaz del proyecto.
   
