@@ -36,13 +36,13 @@ El objetivo de este proyecto es demostrar el uso de **JSP** para crear aplicacio
 
 ### Créditos
 
-Este proyecto fue desarrollado con el apoyo del Instituto Técnico Superior Público "Argentina" como parte de un curso de desarrollo web con Java.
+Este proyecto fue desarrollado con el apoyo del Instituto Técnico Superior Público "Argentina" como parte del curso **Taller de Programación Concurrente**.
 
 **Profesor:**  
 Pedro Hernán De La Cruz Velazco
 
 **Desarrollador:**  
-Carlos Rodríguez
+Carlos Rodríguez (Estudiante)
 
 ---
 
