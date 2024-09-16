@@ -10,7 +10,7 @@ El objetivo de este proyecto es demostrar el uso de **JSP** para crear aplicacio
 
 - **/web/WEB-INF**: Contiene la configuración y los archivos de despliegue del proyecto.
 - **/src/java**: Código fuente Java utilizado en el backend.
-- **/web/pages**: Páginas JSP que componen la interfaz del proyecto.
+- **/web**: Páginas JSP que componen la interfaz del proyecto.
   
 ### Requisitos
 
