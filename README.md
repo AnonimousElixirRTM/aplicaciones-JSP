@@ -42,7 +42,7 @@ Este proyecto fue desarrollado con el apoyo del Instituto Técnico Superior Púb
 Pedro Hernán De La Cruz Velazco
 
 **Desarrollador:**  
-Carlos Rodríguez (Estudiante)
+Carlos Eros Rodríguez (Estudiante)
 
 ---
 
